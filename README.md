@@ -1,4 +1,4 @@
-# 1 in 1000 chance for withered foxy jumpscare every second
+# 1 in 10000 chance for withered foxy jumpscare every second
 Now in Balatro!
 
 # HOW TO INSTALL
