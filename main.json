@@ -1,0 +1,12 @@
+{
+	"id": "foxy",
+	"name": "1/10000 chance for Withered Foxy Jumpscare every second",
+	"display_name": "1/10000 chance for Withered Foxy Jumpscare every second",
+	"author": ["Nxkoo"],
+	"description": "A mod for Balatro which adds 1/10000 chance for Withered Foxy Jumpscare every second",
+	"prefix": "fxy",
+	"main_file": "main.lua",
+	"priority": -1987,
+	"version": "8.7",
+	"dependencies": []
+}
